@@ -1,3 +1,3 @@
-- My name is Petko Petkov, I'm a graduated engeneer in fire and emergency safety from Bulgaria. I worked for 10 years in the fire safety system there. After that I moved to work and live in Italy.
+- My name is Petko Petkov, I'm a graduated engeneer in fire and emergency safety from Bulgaria. From more than 10 years I live and work in Italy.
 - 👀 I’m interested in different areas of work, knowledge and leasure: like fire safety, computers and programming, driving heavy goods vehicles, various home mainteinance activities and others.
 - 🌱 I’m currently learning online programmig with Python at Software University LTD, Sofia, Bulgaria and at Istituto Volta s.r.l, Bari, Italy.
